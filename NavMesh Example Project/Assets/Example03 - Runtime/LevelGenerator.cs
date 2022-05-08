@@ -1,9 +1,11 @@
 using UnityEngine;
+using UnityEngine.AI;
 
 public class LevelGenerator : MonoBehaviour {
 
 	public int width = 10;
 	public int height = 10;
+	public NavMeshSurface surface; 
 
 	public GameObject wall;
 	public GameObject player;
@@ -13,6 +15,7 @@ public class LevelGenerator : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		GenerateLevel();
+		surface.BuildNavMesh(); 
 	}
 	
 	// Create a grid based level

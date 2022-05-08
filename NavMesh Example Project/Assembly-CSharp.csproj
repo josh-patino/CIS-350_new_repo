@@ -60,8 +60,10 @@
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
+     <Compile Include="Assets\Scripts\EnemyAI.cs" />
      <Compile Include="Assets\Scripts\MoveTo.cs" />
      <Compile Include="Assets\Scripts\MoveToClickPoint.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>/Users/joshuapatino/Desktop/Git /code_practice/370_project/CIS-350_new_repo/NavMesh Example Project/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
