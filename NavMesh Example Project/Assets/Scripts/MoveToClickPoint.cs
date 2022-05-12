@@ -1,4 +1,10 @@
-﻿using System;
+/*
+* josh patino
+* assignment 9
+* able to send the player to a spot where the user clicked 
+*
+*/﻿
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
