@@ -1,4 +1,11 @@
-﻿using System;
+/*
+* josh patino
+* assignment 9
+* enemy AI to chase the player
+*
+*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
