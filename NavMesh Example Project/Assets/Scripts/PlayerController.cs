@@ -1,4 +1,9 @@
-﻿using System;
+/*
+* josh patino
+* assignment 9 
+* player controller, controls the player 
+*/﻿
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
