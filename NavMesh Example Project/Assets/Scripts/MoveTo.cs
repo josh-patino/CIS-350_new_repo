@@ -1,4 +1,10 @@
-﻿using System.Globalization;
+/*
+* josh patino
+* assignment 9
+* resonsible for the agent to move to a preset destination
+*
+*/
+using System.Globalization;
 using System;
 using System.Collections;
 using System.Collections.Generic;
